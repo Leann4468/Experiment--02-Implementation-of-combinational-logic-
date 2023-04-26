@@ -66,10 +66,15 @@ endmodule
 
 ## Output:
 ## RTL realization:
-![WhatsApp Image 2023-04-26 at 14 07 52](https://user-images.githubusercontent.com/121222763/234522444-db5ef569-cbc4-42f9-bffe-2f5869a3ec5c.jpg)
+
+![1](https://user-images.githubusercontent.com/121165979/234528737-eef07d43-beba-4c2d-a0ea-fa043a17b6b4.png)
+
+![2](https://user-images.githubusercontent.com/121165979/234528765-95b8c9e3-dab2-41d0-9ca9-bf8b0a1786cf.png)
+
 
 ## Timing Diagram:
-![WhatsApp Image 2023-04-26 at 14 08 32](https://user-images.githubusercontent.com/121222763/234522518-16250082-e268-41dd-b0d1-2fdf9bd07f3a.jpg)
+![3](https://user-images.githubusercontent.com/121165979/234528866-6a19affa-d7e9-480a-a0f0-5b1d098c3a89.png)
+
 ## Truth table:
 ![WhatsApp Image 2023-04-26 at 14 07 45](https://user-images.githubusercontent.com/121222763/234522624-56fff42e-df4f-4b2a-a1a3-e662f6c1f132.jpg)
 
