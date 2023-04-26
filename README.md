@@ -45,7 +45,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: Leann Joby Mathew
 
 RegisterNumber:  212222230074
-python
+```python
 module logic(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
@@ -63,6 +63,7 @@ assign B5=(w&x&y);
 assign f1=A1|A2|A3|A4|A5;
 assign f2=B1|B2|B3|B4|B5;
 endmodule
+```
 
 ## Output:
 ## RTL realization:
