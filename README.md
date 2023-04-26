@@ -16,6 +16,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output. 
 
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
+
 1.AND gate The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 Y= A.B
 
